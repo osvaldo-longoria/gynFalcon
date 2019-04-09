@@ -1,2 +1,2 @@
 # gynFalcon
-sistema de inscripciones a gimnacio
+sistema de inscripciones a gimnasio
